@@ -1,6 +1,7 @@
 ### Getting started
 
 Task Timer for Desktop status bar
+
 COMPLETE TASKS BEFORE TIME RUNS OUT!!!
 
 `npm install`
