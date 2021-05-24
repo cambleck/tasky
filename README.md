@@ -1,5 +1,7 @@
 ### Getting started
 
+Task Timer for Desktop status bar
+
 `npm install`
 
 Start dev server:
